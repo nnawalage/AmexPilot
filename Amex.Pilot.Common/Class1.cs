@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Amex.Pilot.BusinessServices
+namespace Amex.Pilot.Common
 {
     public class Class1
     {
